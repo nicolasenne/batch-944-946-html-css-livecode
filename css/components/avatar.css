@@ -1,0 +1,16 @@
+.avatar-info {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.avatar-info a {
+  color: #4B94BD;
+  font-weight: 700;
+}
